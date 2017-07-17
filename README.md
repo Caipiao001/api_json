@@ -1,3 +1,1 @@
-{
- "com.caipiao.app001":"http://www.baidu.com"
-}
+eyAiY29tLmNhaXBpYW8uYXBwMDAxIjoiaHR0cDovL3d3dy5iYWlkdS5jb20iIH0=
